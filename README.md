@@ -25,11 +25,16 @@ Once running, the app provides:
 
 ---
 
+# TODO
+- Training without punctuations in a future model
+
+
 ## Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/fake-news-detector.git
-cd fake-news-detector
+git clone https://github.com/AmmarK13/FakeNewsDetection
+streamlit run app/frontend.py
+
 
